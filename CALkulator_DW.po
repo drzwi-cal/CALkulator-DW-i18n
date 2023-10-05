@@ -1,0 +1,1940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-10-05 12:33+0200\n"
+"PO-Revision-Date: 2023-10-05 12:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: src\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: src/controller\n"
+"X-Poedit-SearchPath-3: src/wewnetrzne\n"
+
+#: src/controller.php:159
+msgid "Promocja123"
+msgstr "....."
+
+#: src/controller.php:160
+msgid "w tym"
+msgstr "Price includes"
+
+#: src/controller.php:162
+msgid "Cena detaliczna bez promocji"
+msgstr "Standard retail price"
+
+#: src/controller.php:331 src/controller.php:352 src/controller.php:372
+msgid "typowa szerokość"
+msgstr "std. width"
+
+#: src/controller.php:391 src/controller.php:399 src/controller.php:402
+#: src/controller.php:405 src/controller.php:409 src/controller.php:412
+msgid "typowa szerokość kasety"
+msgstr "cassette std. width"
+
+#: src/controller.php:454 src/controller/ladujDrzwi.php:169 wewnetrzne.php:428
+#: wewnetrzne.php:654 wewnetrzne.php:660 wewnetrzne.php:666 wewnetrzne.php:672
+#: wewnetrzne.php:678 wewnetrzne.php:684 wewnetrzne.php:690
+msgid "standard"
+msgstr "std."
+
+#: src/controller.php:638
+msgid "Zamówienie"
+msgstr "Order"
+
+#: src/controller.php:640
+msgid "Wycena"
+msgstr "Sales quote"
+
+#: src/controller.php:650
+msgid "Wycenę wykonano dla"
+msgstr "Sales quote for"
+
+#: src/controller.php:661
+msgid "Dystrybutor"
+msgstr "Dealer"
+
+#: src/controller.php:662
+msgid "Adres"
+msgstr "Address"
+
+#: src/controller.php:664
+msgid "Telefon"
+msgstr "Phone"
+
+#: src/controller.php:748
+msgid "Podaj imię i nazwisko operatora"
+msgstr "Enter the user name"
+
+#: src/controller.php:753
+msgid "Wybierz z listy kraj dostawy"
+msgstr "Select the destination country from the list"
+
+#: src/controller.php:757
+msgid "Podaj email operatora"
+msgstr "Enter user e-mail"
+
+#: src/controller.php:760
+msgid "Podaj własny numer zamówienia"
+msgstr "Enter your order number"
+
+#: src/controller.php:845
+msgid "Przed zapisaniem zamówienia dodaj do niego jakieś pozycje"
+msgstr "Fill in the required fields before saving your order details"
+
+#: src/controller.php:1005 src/controller.php:1012
+#: src/controller/ladujDrzwi.php:87 src/controller/phpArrays.php:204
+msgid "Akcesoria"
+msgstr "Accessories"
+
+#: src/controller.php:1013 src/controller.php:1039
+msgid "Nazwa"
+msgstr "Name"
+
+#: src/controller.php:1013 src/controller.php:1039
+msgid "Ilość"
+msgstr "Quantity"
+
+#: src/controller.php:1013 src/controller.php:1039
+msgid "Cena"
+msgstr "Price"
+
+#: src/controller.php:1019 src/controller.php:1045
+msgid "Razem"
+msgstr "Total"
+
+#: src/controller.php:1033 src/controller.php:1038
+#: src/controller/phpArrays.php:156 wewnetrzne.php:443
+msgid "Listwy"
+msgstr "Architraves"
+
+#: src/controller.php:1152 src/controller/ladujDrzwi.php:72 wewnetrzne.php:600
+msgid "Drzwi"
+msgstr "Doorset"
+
+#: src/controller.php:1152
+msgid "Oscieżnica"
+msgstr "Frame"
+
+#: src/controller.php:1223
+msgid "Opaski łączone prosto"
+msgstr "Architraves - butt joint"
+
+#: src/controller.php:1227
+msgid "Opaski łączone skośnie"
+msgstr "Architraves - mitre joint"
+
+#: src/controller/dajCene.php:161
+msgid "Dostawka"
+msgstr "Double door"
+
+#: src/controller/dajCene.php:180 src/controller/dajCene.php:182
+#: src/controller/ladujDrzwi.php:48 src/controller/ladujDrzwi.php:75
+#: src/controller/phpArrays.php:58 src/wewnetrzne/wybarwienia-material.php:132
+msgid "Skrzydło"
+msgstr "Door leaf"
+
+#: src/controller/dajCene.php:195
+msgid "Szersze skrzydło dla typowej ościeżnicy systemu naściennego"
+msgstr "....."
+
+#: src/controller/dajCene.php:197
+msgid "Nietypowa szerokość skrzydła"
+msgstr "Custom width (door leaf)"
+
+#: src/controller/dajCene.php:233
+msgid "Nietypowa wysokość skrzydła"
+msgstr "Custom height (door leaf)"
+
+#: src/controller/dajCene.php:256 src/controller/dajCene.php:295
+#: src/controller/dajCene.php:331 src/controller/dajCene.php:396
+msgid "Barwienie wg palety RAL X mat"
+msgstr "RAL X-mat color"
+
+#: src/controller/dajCene.php:259 src/controller/dajCene.php:299
+#: src/controller/dajCene.php:334 src/controller/dajCene.php:399
+msgid "Barwienie wg palety RAL"
+msgstr "RAL color"
+
+#: src/controller/dajCene.php:270 src/controller/dajCene.php:309
+#: src/controller/dajCene.php:346 src/controller/dajCene.php:363
+#: src/controller/dajCene.php:410
+msgid "Barwienie wg palety RAL X mat na dębie"
+msgstr "RAL X-mat color"
+
+#: src/controller/dajCene.php:272 src/controller/dajCene.php:312
+#: src/controller/dajCene.php:348 src/controller/dajCene.php:365
+#: src/controller/dajCene.php:412
+msgid "Barwienie wg palety RAL na dębie"
+msgstr "RAL color"
+
+#: src/controller/dajCene.php:278 src/controller/dajCene.php:354
+#: src/controller/dajCene.php:371
+msgid "Wykończenie w okleinie dębowej"
+msgstr "Oak finish "
+
+#: src/controller/dajCene.php:380 src/controller/dajCene.php:423
+msgid "Wykończenie w okleinie dąb sękaty"
+msgstr "Knotty oak finish"
+
+#: src/controller/dajCene.php:452
+msgid "Zawiasy bezprzylgowe"
+msgstr "Concealed hinges"
+
+#: src/controller/dajCene.php:456 src/controller/dajCene.php:468
+msgid "Zawiasy w kolorze zamka"
+msgstr "Hinges the same color as the lock."
+
+#: src/controller/dajCene.php:464
+msgid "Wariant rewersyjny"
+msgstr "Reverse rebated door / concealed hinges"
+
+#: src/controller/dajCene.php:474 src/controller/ladujDrzwi.php:151
+#: wewnetrzne.php:637
+msgid "System ERGON"
+msgstr "ERGON system"
+
+#: src/controller/dajCene.php:482 src/controller/phpArrays.php:78
+msgid "Podcięcie wentylacyjne"
+msgstr "Ventilation gap"
+
+#: src/controller/dajCene.php:491
+msgid "Podcięcie drzwi"
+msgstr "Door undercut"
+
+#: src/controller/dajCene.php:500
+msgid "System przesuwny naścienny"
+msgstr "SD - Sliding Door System"
+
+#: src/controller/dajCene.php:514
+#, fuzzy
+#| msgid "Kaseta do systemu przesuwnego do ściany g-k 125 mm"
+msgid "System przesuwny do ściany g-k 125 mm"
+msgstr "PD cassette"
+
+#: src/controller/dajCene.php:534 src/controller/dajCene.php:769
+msgid "Nietypowa szerokość ościeżnicy"
+msgstr "Custom width (doorframe)"
+
+#: src/controller/dajCene.php:555 src/controller/dajCene.php:809
+msgid "Nietypowa wysokość ościeżnicy"
+msgstr "Custom height (doorframe)"
+
+#: src/controller/dajCene.php:619
+msgid "Niestandardowe szklenie"
+msgstr "Custom glass"
+
+#: src/controller/dajCene.php:675 src/controller/dajCene.php:697
+msgid "Panel górny - strona wręgowa"
+msgstr "Upper panel - from the frame side"
+
+#: src/controller/dajCene.php:716 src/controller/dajCene.php:733
+msgid "Listwy - strona 1"
+msgstr "Architraves"
+
+#: src/controller/dajCene.php:716
+msgid "Listwy - strona zawiasowa"
+msgstr "Architraves - from the door side"
+
+#: src/controller/dajCene.php:733
+msgid "Listwy - strona wręgowa"
+msgstr "Architraves - from the frame side"
+
+#: src/controller/dajCene.php:842 src/controller/ladujDrzwi.php:48
+#: src/controller/ladujDrzwi.php:78 src/controller/phpArrays.php:131
+#: src/wewnetrzne/wybarwienia-material.php:134 wewnetrzne.php:602
+msgid "Ościeżnica"
+msgstr "Doorframe"
+
+#: src/controller/dajCene.php:863 src/controller/phpArrays.php:88
+msgid "Uszczelka opadająca"
+msgstr "Concealed automatic threshold seal"
+
+#: src/controller/dajCene.php:875 src/controller/phpArrays.php:209
+#: wewnetrzne.php:20 wewnetrzne.php:3609
+msgid "Klamka"
+msgstr "Handle"
+
+#: src/controller/dajCene.php:880
+msgid "Nasadki"
+msgstr "Hinge covers"
+
+#: src/controller/dajCene.php:885
+msgid "Rozeta"
+msgstr "Rosette"
+
+#: src/controller/dajCene.php:905
+#, fuzzy
+#| msgid "Pochwyt i zamek"
+msgid "Pochwyt / zamek"
+msgstr "....."
+
+#: src/controller/dajCene.php:911 src/controller/phpArrays.php:238
+msgid "Inne dopłaty"
+msgstr "Additional payment"
+
+#: src/controller/dajCene.php:915 src/controller/phpArrays.php:243
+msgid "Cena montażu"
+msgstr "Installation fee"
+
+#: src/controller/isZamValid.php:10
+msgid "Wybierz rodzaj wyrobu"
+msgstr "Select the product type. "
+
+#: src/controller/isZamValid.php:15 src/controller/isZamValid.php:127
+msgid ""
+"Wpisz nazwę pomieszczenia. Pozwoli to zidentyfikować egzemplarz drzwi w "
+"zamówieniu."
+msgstr "Enter the name of the room. "
+
+#: src/controller/isZamValid.php:19 src/controller/isZamValid.php:131
+msgid "Nazwa pomieszczenia musi być unikalna w ramach zamówienia."
+msgstr "The name of the room must be unique within the order."
+
+#: src/controller/isZamValid.php:23 src/controller/isZamValid.php:138
+msgid "Wybierz model drzwi."
+msgstr "Select the model of your door."
+
+#: src/controller/isZamValid.php:26
+msgid "Wybierz typ skrzydła (przylgowe/bezprzylgowe/rewersyjne)"
+msgstr ""
+"Select the type of door leaf construction (rebated / non-rebated / reverse)"
+
+#: src/controller/isZamValid.php:30
+msgid "Wybierz kierunek w zamawianej ościeżnicy"
+msgstr "Select the opening direction of the frame."
+
+#: src/controller/isZamValid.php:32
+msgid "Wybierz kierunek otwierania drzwi"
+msgstr "Select the opening direction of the door."
+
+#: src/controller/isZamValid.php:38
+msgid "Wpisz ilość zamawianych ościeżnic."
+msgstr "Enter requested quantity"
+
+#: src/controller/isZamValid.php:40
+msgid "Wpisz ilość zamawianych drzwi."
+msgstr "Enter requested quantity"
+
+#: src/controller/isZamValid.php:44
+msgid "Drzwi podcinamy od 10 mm do 30 mm z dokładnością do 10 mm."
+msgstr "Door can be undercut every 10 mm up to 30 mm"
+
+#: src/controller/isZamValid.php:50 src/controller/isZamValid.php:53
+#: src/controller/isZamValid.php:56
+msgid "Wysokość panela górnego wynosi od 200 mm do 485 mm."
+msgstr "Upper panel available height range 200-485 mm"
+
+#: src/controller/isZamValid.php:61 src/controller/isZamValid.php:151
+msgid ""
+"Wpisz grubość muru, tym samym ustalając głębokość ościeżnicy. Wartość "
+"numeryczna"
+msgstr ""
+"Enter the thickness of the wall, thus determining the depth of the "
+"doorframe. Numeric value."
+
+#: src/controller/isZamValid.php:65
+msgid "Wybierz model ościeżnicy."
+msgstr "Select the model of your doorframe."
+
+#: src/controller/isZamValid.php:71 src/controller/isZamValid.php:154
+msgid ""
+"Ościeżnica regulowana występuje w wymiarze od 77 mm do 495 mm. Popraw "
+"parametr: grubość muru."
+msgstr " ….."
+
+#: src/controller/isZamValid.php:75
+msgid ""
+"Ościeżnica stała występuje w wymiarze od 75 mm do 500 mm. Popraw parametr: "
+"grubość muru."
+msgstr " ….."
+
+#: src/controller/isZamValid.php:82
+msgid "Drzwi do otworu montażowego o wysokości od 1950 mm do 2470 mm."
+msgstr " ….."
+
+#: src/controller/isZamValid.php:85
+msgid "Drzwi do otworu montażowego o szerokości od 1950 mm do 2470 mm."
+msgstr "..... "
+
+#: src/controller/isZamValid.php:91
+msgid "Wybierz wybarwienie zamawianej ościeżnicy."
+msgstr "Select the color of the doorframe."
+
+#: src/controller/isZamValid.php:93 src/controller/isZamValid.php:144
+msgid "Wybierz wybarwienie zamawianych drzwi."
+msgstr "Select the color of your door."
+
+#: src/controller/isZamValid.php:98 src/controller/isZamValid.php:147
+msgid "Wybierz rodzaj szkła w skrzydle drzwiowym."
+msgstr "Select the type of glass."
+
+#: src/controller/isZamValid.php:107 src/controller/isZamValid.php:164
+#: src/controller/isZamValid.php:168 src/controller/isZamValid.php:176
+#: src/controller/isZamValid.php:180 src/controller/isZamValid.php:188
+#: src/controller/isZamValid.php:192
+msgid "Wybierz umiejscowienie oranamentu w szkle."
+msgstr " ....."
+
+#: src/controller/isZamValid.php:113
+msgid "Określ czy listwy dodatkowe chcesz mieć z jednej czy z dwóch stron"
+msgstr " ....."
+
+#: src/controller/isZamValid.php:116
+msgid "Wybierz rodzaj zamka dla skrzydła drzwiowego"
+msgstr "Select the type of lock."
+
+#: src/controller/isZamValid.php:119
+msgid "Wybierz kolor zamka dla skrzydła drzwiowego"
+msgstr "Select the color of the lock."
+
+#: src/controller/isZamValid.php:135
+msgid "Wybierz rodzaj systemu przesuwnego"
+msgstr "Select the type of sliding system."
+
+#: src/controller/isZamValid.php:141
+msgid "Wybierz rodzaj zamka w skrzydle."
+msgstr "Select the type of lock."
+
+#: src/controller/ladujDrzwi.php:48 src/wewnetrzne/wybarwienia-material.php:132
+#, fuzzy
+#| msgid "OW-3032"
+msgid "OW 3032"
+msgstr "OW-3032"
+
+#: src/controller/ladujDrzwi.php:81
+msgid "Naświetle"
+msgstr "Sidelight"
+
+#: src/controller/ladujDrzwi.php:84
+msgid "Listwa"
+msgstr "Architraves"
+
+#: src/controller/ladujDrzwi.php:90
+msgid "System przesuwny"
+msgstr "Sliding door system"
+
+#: src/controller/ladujDrzwi.php:93
+msgid "SN na ościeżnicę z belką odbojową"
+msgstr "SD - doorframe with end post"
+
+#: src/controller/ladujDrzwi.php:96
+msgid "SN na ościeżnicę bez belki odbojowej"
+msgstr "SD - doorframe without end post"
+
+#: src/controller/ladujDrzwi.php:99 wewnetrzne.php:612
+msgid "SN bez ościeżnicy i belki odbojowej"
+msgstr "SD - without doorframe"
+
+#: src/controller/ladujDrzwi.php:102 wewnetrzne.php:616
+msgid "SW z kasetą K-G 125mm"
+msgstr "PD - 125mm (fixed wall thickness)"
+
+#: src/controller/ladujDrzwi.php:105 wewnetrzne.php:619
+msgid "SW z kasetą K-G 125mm i ościeżnicą"
+msgstr "PD - 125mm (surface mounted)"
+
+#: src/controller/ladujDrzwi.php:113 src/controller/phpArrays.php:1165
+#: src/controller/phpArrays.php:1221 src/controller/phpArrays.php:1278
+#: src/controller/phpArrays.php:1380 wewnetrzne.php:224
+msgid "dwuskrzydłowe symetryczne"
+msgstr "double door"
+
+#: src/controller/ladujDrzwi.php:116 src/controller/phpArrays.php:1166
+#: wewnetrzne.php:224
+msgid "dwuskrzydłowe niesymetryczne"
+msgstr "double door (asymmetrical)"
+
+#: src/controller/ladujDrzwi.php:132
+msgid "rewersyjne"
+msgstr "reverse rebated door / concealed hinges"
+
+#: src/controller/ladujDrzwi.php:138
+msgid "bez zawiasów"
+msgstr "without hinges"
+
+#: src/controller/ladujDrzwi.php:140 wewnetrzne.php:631
+msgid "przylgowe"
+msgstr "rebated door / lift off pin hinges"
+
+#: src/controller/ladujDrzwi.php:145
+msgid "ościeżnica ukryta"
+msgstr "Hidden frame"
+
+#: src/controller/ladujDrzwi.php:148
+msgid "ościeżnica ukryta rewersyjna"
+msgstr "Hidden frame"
+
+#: src/controller/ladujDrzwi.php:156 src/controller/ladujDrzwi.php:157
+#: wewnetrzne.php:723 wewnetrzne.php:724
+msgid "Tak"
+msgstr "Yes"
+
+#: src/controller/ladujDrzwi.php:156 src/controller/ladujDrzwi.php:157
+#: wewnetrzne.php:723 wewnetrzne.php:724
+msgid "Nie"
+msgstr "Non"
+
+#: src/controller/ladujDrzwi.php:163 src/controller/ladujDrzwi.php:166
+#: wewnetrzne.php:429 wewnetrzne.php:430
+msgid "premium"
+msgstr "premium"
+
+#: src/controller/ladujDrzwi.php:172 wewnetrzne.php:431
+msgid "soft"
+msgstr "smooth"
+
+#: src/controller/ladujDrzwi.php:183
+msgid "skośne"
+msgstr "mitre joint"
+
+#: src/controller/ladujDrzwi.php:186
+msgid "proste"
+msgstr "butt joint"
+
+#: src/controller/ladujDrzwi.php:199 wewnetrzne.php:3807 wewnetrzne.php:3814
+msgid "z 2 stron"
+msgstr "on both sides"
+
+#: src/controller/ladujDrzwi.php:208 src/controller/ladujDrzwi.php:278
+#: src/controller/phpArrays.php:1214 wewnetrzne.php:890 wewnetrzne.php:3812
+msgid "od strony opaski stałej"
+msgstr " on the door side"
+
+#: src/controller/ladujDrzwi.php:212 src/controller/ladujDrzwi.php:281
+#: src/controller/phpArrays.php:1215 wewnetrzne.php:891 wewnetrzne.php:3813
+msgid "od strony opaski ruchomej"
+msgstr "on the frame side"
+
+#: src/controller/ladujDrzwi.php:220 src/controller/ladujDrzwi.php:221
+msgid "panel"
+msgstr "panel"
+
+#: src/controller/ladujDrzwi.php:284 src/controller/phpArrays.php:1264
+#: src/controller/phpArrays.php:1268 src/controller/phpArrays.php:1306
+#: src/controller/phpArrays.php:1310 src/controller/phpArrays.php:1326
+#: src/controller/phpArrays.php:1330
+msgid "od strony maskownicy"
+msgstr "on the track side"
+
+#: src/controller/ladujDrzwi.php:287 src/controller/phpArrays.php:1265
+#: src/controller/phpArrays.php:1269 src/controller/phpArrays.php:1307
+#: src/controller/phpArrays.php:1311 src/controller/phpArrays.php:1327
+#: src/controller/phpArrays.php:1331
+msgid "od strony tunelu"
+msgstr "on the doorframe side"
+
+#: src/controller/ladujDrzwi.php:290
+msgid "od strony 1"
+msgstr "from the"
+
+#: src/controller/ladujDrzwi.php:293
+msgid "od strony 2"
+msgstr "from the"
+
+#: src/controller/ladujDrzwi.php:304
+msgid "złoty"
+msgstr "gold"
+
+#: src/controller/ladujDrzwi.php:307 src/controller/phpArrays.php:6
+#: src/controller/phpArrays.php:1158 wewnetrzne.php:453 wewnetrzne.php:484
+msgid "chrom"
+msgstr "chrome"
+
+#: src/controller/ladujDrzwi.php:310
+msgid "czarny"
+msgstr "black"
+
+#: src/controller/ladujDrzwi.php:383 wewnetrzne.php:3151
+msgid "cena promocyjna"
+msgstr "Promotional retail price"
+
+#: src/controller/phpArrays.php:6 src/controller/phpArrays.php:1158
+#: wewnetrzne.php:453
+msgid "lakierowny na czarno - matowy"
+msgstr "matt black"
+
+#: src/controller/phpArrays.php:7 src/controller/phpArrays.php:1159
+#: wewnetrzne.php:454
+msgid "chrom matowy plus chromowany (dwukolor)"
+msgstr "satin chrome + polished chrome (two-tone chrome)"
+
+#: src/controller/phpArrays.php:7 src/controller/phpArrays.php:1159
+#: wewnetrzne.php:454 wewnetrzne.php:485
+msgid "chrom matowy"
+msgstr "satin chrome"
+
+#: src/controller/phpArrays.php:7 src/controller/phpArrays.php:1159
+#: wewnetrzne.php:454 wewnetrzne.php:485
+msgid "niklowany matowy"
+msgstr "satin nickel"
+
+#: src/controller/phpArrays.php:8 src/controller/phpArrays.php:1160
+#: wewnetrzne.php:455
+msgid "lakierowny na biało - matowy"
+msgstr "matt white"
+
+#: src/controller/phpArrays.php:8 src/controller/phpArrays.php:1160
+msgid "Rose gold"
+msgstr "Rose gold"
+
+#: src/controller/phpArrays.php:19 src/controller/printPreviewPDF.php:270
+msgid "Cena netto"
+msgstr "Net price"
+
+#: src/controller/phpArrays.php:23
+msgid "Nazwa pomieszczenia"
+msgstr "Room name"
+
+#: src/controller/phpArrays.php:31
+msgid "Wyrób"
+msgstr "Product"
+
+#: src/controller/phpArrays.php:36
+msgid "Rodzaj wyrobu"
+msgstr "Product type"
+
+#: src/controller/phpArrays.php:40
+msgid "Sztuk"
+msgstr "Quantity"
+
+#: src/controller/phpArrays.php:45 src/controller/phpArrays.php:141
+#: wewnetrzne.php:427
+msgid "Konstrukcja"
+msgstr "Construction"
+
+#: src/controller/phpArrays.php:49
+msgid "Kierunek"
+msgstr "Opening direction"
+
+#: src/controller/phpArrays.php:63 wewnetrzne.php:398
+msgid "Kolekcja"
+msgstr "Collection"
+
+#: src/controller/phpArrays.php:68 src/controller/phpArrays.php:136
+msgid "Model"
+msgstr "Model"
+
+#: src/controller/phpArrays.php:73
+msgid "Konstrukcja / Zawiasy"
+msgstr "Construction / Hinges"
+
+#: src/controller/phpArrays.php:83
+msgid "Szczelina wentylacyjna"
+msgstr "Ventilation slit"
+
+#: src/controller/phpArrays.php:97
+msgid "Wykończenie"
+msgstr "Finish"
+
+#: src/controller/phpArrays.php:102
+msgid "Kolor / Materiał"
+msgstr "Color / Wood Type"
+
+#: src/controller/phpArrays.php:107
+msgid "Rodzaj szkła"
+msgstr "Glass"
+
+#: src/controller/phpArrays.php:112
+msgid "Decormat / Faza"
+msgstr "Matt / Beveled Side"
+
+#: src/controller/phpArrays.php:117
+msgid "Zamek"
+msgstr "Lock type"
+
+#: src/controller/phpArrays.php:146
+msgid "Szerokość opaski"
+msgstr "Architrave width"
+
+#: src/controller/phpArrays.php:151 wewnetrzne.php:433
+msgid "Łączenie opasek"
+msgstr "Joint of architraves"
+
+#: src/controller/phpArrays.php:165
+msgid "Wymiary"
+msgstr "Product dims"
+
+#: src/controller/phpArrays.php:171
+msgid "Wysokość ościeżnicy"
+msgstr "Frame height"
+
+#: src/controller/phpArrays.php:171
+msgid "wysokość otworu"
+msgstr "opening height"
+
+#: src/controller/phpArrays.php:176
+msgid "Szerokość ościeżnicy"
+msgstr "Frame width"
+
+#: src/controller/phpArrays.php:176
+msgid "szerokość otworu"
+msgstr "opening width"
+
+#: src/controller/phpArrays.php:181
+msgid "Grubość muru"
+msgstr "Wall thickness"
+
+#: src/controller/phpArrays.php:186
+msgid "Wysokość z panelem górnym strona opaski stałej"
+msgstr "Overall frame height<br>(from door side)"
+
+#: src/controller/phpArrays.php:191
+msgid "Wysokość z panelem górnym strona opaski ruchomej"
+msgstr "Overall frame height<br>(from frame side)"
+
+#: src/controller/phpArrays.php:214 wewnetrzne.php:21 wewnetrzne.php:3656
+msgid "Osłonki"
+msgstr "Hinge covers"
+
+#: src/controller/phpArrays.php:223 src/controller/phpArrays.php:228
+msgid "Uwagi"
+msgstr "Comments"
+
+#: src/controller/phpArrays.php:233
+msgid "Załączniki"
+msgstr "Appendix"
+
+#: src/controller/phpArrays.php:248
+msgid "Stawka VAT"
+msgstr "VAT"
+
+#: src/controller/phpArrays.php:356 src/controller/phpArrays.php:409
+#: src/controller/phpArrays.php:467 src/controller/phpArrays.php:525
+#: src/controller/phpArrays.php:592 src/controller/phpArrays.php:628
+#: src/controller/phpArrays.php:664 src/controller/phpArrays.php:700
+#: src/controller/phpArrays.php:731 src/controller/phpArrays.php:762
+#: src/controller/phpArrays.php:792 src/controller/phpArrays.php:827
+#: src/controller/phpArrays.php:889 src/controller/phpArrays.php:1030
+msgid "regulowana"
+msgstr "adjustable frame /"
+
+#: src/controller/phpArrays.php:356
+msgid "podstawowa"
+msgstr "basic"
+
+#: src/controller/phpArrays.php:409 src/controller/phpArrays.php:467
+#: src/controller/phpArrays.php:525 src/controller/phpArrays.php:626
+#: src/controller/phpArrays.php:628 src/controller/phpArrays.php:664
+#: src/controller/phpArrays.php:700 wewnetrzne.php:41
+msgid "listwa ozdobna"
+msgstr " "
+
+#: src/controller/phpArrays.php:415
+msgid "ozdobna"
+msgstr " "
+
+#: src/controller/phpArrays.php:467 src/controller/phpArrays.php:662
+#: src/controller/phpArrays.php:664 src/controller/phpArrays.php:792
+#: src/controller/phpArrays.php:798 wewnetrzne.php:44
+msgid "korona"
+msgstr "crown moulding"
+
+#: src/controller/phpArrays.php:473
+msgid "Korona z listwą ozdobną"
+msgstr "Crown moulding"
+
+#: src/controller/phpArrays.php:525 src/controller/phpArrays.php:700
+#: src/controller/phpArrays.php:827 wewnetrzne.php:42
+msgid "korona plus"
+msgstr "crown moulding"
+
+#: src/controller/phpArrays.php:531
+msgid "Korona plus z listwą ozdobną"
+msgstr "Crown moulding"
+
+#: src/controller/phpArrays.php:592 src/controller/phpArrays.php:628
+#: src/controller/phpArrays.php:664 src/controller/phpArrays.php:700
+msgid "retro"
+msgstr "/ retro"
+
+#: src/controller/phpArrays.php:628 src/controller/phpArrays.php:664
+#: src/controller/phpArrays.php:700
+msgid "dwustronna"
+msgstr " ....."
+
+#: src/controller/phpArrays.php:698 src/controller/phpArrays.php:833
+msgid "Korona plus"
+msgstr "Crown moulding"
+
+#: src/controller/phpArrays.php:731
+msgid "cokoły dwustronne"
+msgstr "bottom and top plinths"
+
+#: src/controller/phpArrays.php:762 src/controller/phpArrays.php:792
+#: src/controller/phpArrays.php:827
+msgid "cokoły dolne dwustronne"
+msgstr "bottom plinths"
+
+#: src/controller/phpArrays.php:889
+msgid "panel górny"
+msgstr "upper panel"
+
+#: src/controller/phpArrays.php:914 wewnetrzne.php:3800 wewnetrzne.php:3823
+msgid "frezowana"
+msgstr "Architraves"
+
+#: src/controller/phpArrays.php:916 src/controller/phpArrays.php:945
+#: src/controller/phpArrays.php:974 src/controller/phpArrays.php:1003
+msgid "stała"
+msgstr "rebated frame /"
+
+#: src/controller/phpArrays.php:916 wewnetrzne.php:39
+msgid "listwa frezowana"
+msgstr "milled edge architraves"
+
+#: src/controller/phpArrays.php:943 wewnetrzne.php:3799 wewnetrzne.php:3822
+msgid "prosta"
+msgstr "Architraves"
+
+#: src/controller/phpArrays.php:945 wewnetrzne.php:36
+msgid "listwa prosta"
+msgstr "squer edge architraves"
+
+#: src/controller/phpArrays.php:972 wewnetrzne.php:3801 wewnetrzne.php:3824
+msgid "wypukła"
+msgstr "Architraves"
+
+#: src/controller/phpArrays.php:974 wewnetrzne.php:37
+msgid "listwa wypukła"
+msgstr "Ovolo Architraves"
+
+#: src/controller/phpArrays.php:1001 wewnetrzne.php:3802 wewnetrzne.php:3825
+msgid "opera"
+msgstr "Architraves"
+
+#: src/controller/phpArrays.php:1003 wewnetrzne.php:38
+msgid "listwa opera"
+msgstr "Opera Victorian Architraves"
+
+#: src/controller/phpArrays.php:1030 wewnetrzne.php:27
+msgid "Infinity"
+msgstr "Infinity"
+
+#: src/controller/phpArrays.php:1048 src/controller/phpArrays.php:1591
+#: src/controller/phpArrays.php:1601
+msgid "otwierane na zewnątrz"
+msgstr "outswing door"
+
+#: src/controller/phpArrays.php:1068 src/controller/phpArrays.php:1592
+msgid "otwierane do wewnątrz"
+msgstr "inswing door"
+
+#: src/controller/phpArrays.php:1158 wewnetrzne.php:453 wewnetrzne.php:484
+msgid "brązowiony matowy"
+msgstr "matt patina"
+
+#: src/controller/phpArrays.php:1164 src/controller/phpArrays.php:1220
+#: src/controller/phpArrays.php:1244 src/controller/phpArrays.php:1349
+#: wewnetrzne.php:641
+msgid "jednoskrzydłowe"
+msgstr "single door"
+
+#: src/controller/phpArrays.php:1171 src/controller/phpArrays.php:1207
+#: src/controller/phpArrays.php:1236
+msgid "Chrom"
+msgstr "Chrome"
+
+#: src/controller/phpArrays.php:1172 src/controller/phpArrays.php:1208
+#: src/controller/phpArrays.php:1237
+msgid "Złoty"
+msgstr "polished gold"
+
+#: src/controller/phpArrays.php:1173 src/controller/phpArrays.php:1209
+msgid "Biały"
+msgstr "White"
+
+#: src/controller/phpArrays.php:1174 src/controller/phpArrays.php:1210
+msgid "Czarny"
+msgstr "Black"
+
+#: src/controller/phpArrays.php:1178 src/controller/phpArrays.php:1189
+#: src/controller/phpArrays.php:1230
+msgid "zamek na klucz"
+msgstr "keyhole lock"
+
+#: src/controller/phpArrays.php:1179 src/controller/phpArrays.php:1190
+#: src/controller/phpArrays.php:1231
+msgid "zamek patentowy"
+msgstr "euro cylinder lock"
+
+#: src/controller/phpArrays.php:1180 src/controller/phpArrays.php:1191
+#: src/controller/phpArrays.php:1232
+msgid "zamek WC"
+msgstr "wc lock"
+
+#: src/controller/phpArrays.php:1181 src/controller/phpArrays.php:1192
+#: src/controller/phpArrays.php:1233
+msgid "bez otworu na klucz"
+msgstr "lever handle only"
+
+#: src/controller/phpArrays.php:1185 src/controller/phpArrays.php:1224
+#: src/controller/phpArrays.php:1246 src/controller/phpArrays.php:1302
+#: src/controller/phpArrays.php:1322 src/controller/phpArrays.php:1351
+#: src/controller/phpArrays.php:1402 wewnetrzne.php:718
+msgid "prawe"
+msgstr "DIN Right"
+
+#: src/controller/phpArrays.php:1186 src/controller/phpArrays.php:1225
+#: src/controller/phpArrays.php:1247 src/controller/phpArrays.php:1303
+#: src/controller/phpArrays.php:1323 src/controller/phpArrays.php:1352
+#: src/controller/phpArrays.php:1403 wewnetrzne.php:717
+msgid "lewe"
+msgstr "DIN Left"
+
+#: src/controller/phpArrays.php:1194
+msgid "System Magnetic"
+msgstr "Magnetic system"
+
+#: src/controller/phpArrays.php:1200
+msgid "System Magnetic WC"
+msgstr "Magnetic WC system"
+
+#: src/controller/phpArrays.php:1226 wewnetrzne.php:719
+msgid "obojętne (tunel)"
+msgstr "neutral (tunel)"
+
+#: src/controller/phpArrays.php:1251
+msgid "HOOKY na klucz"
+msgstr "keyhole hook lock"
+
+#: src/controller/phpArrays.php:1252 src/controller/phpArrays.php:1357
+msgid "HOOKY WC"
+msgstr "wc hook lock"
+
+#: src/controller/phpArrays.php:1254 src/controller/phpArrays.php:1284
+msgid "uchwyt 2650"
+msgstr "square sliding door pull"
+
+#: src/controller/phpArrays.php:1280 src/controller/phpArrays.php:1338
+#: src/controller/phpArrays.php:1382
+msgid "obojętne"
+msgstr "neutral (tunel)"
+
+#: src/controller/phpArrays.php:1356
+msgid "HOOKY klucz"
+msgstr "keyhole hook lock"
+
+#: src/controller/phpArrays.php:1358 src/controller/phpArrays.php:1385
+msgid "uchwyt LC-169Pl"
+msgstr "Round sliding door pull"
+
+#: src/controller/phpArrays.php:1367 src/controller/phpArrays.php:1371
+#: src/controller/phpArrays.php:1407 src/controller/phpArrays.php:1411
+msgid "strona 1"
+msgstr "Page 1"
+
+#: src/controller/phpArrays.php:1368 src/controller/phpArrays.php:1372
+#: src/controller/phpArrays.php:1408 src/controller/phpArrays.php:1412
+msgid "strona 2"
+msgstr "Page 2"
+
+#: src/controller/pokazTabeleWymiarow.php:190
+msgid "Legenda wymiarowa (wymiary podane w mm)"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:192
+msgid "szerokość całkowita skrzydła (łącznie z przylgą)"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:193
+msgid "szerokość skrzydła"
+msgstr "door leaf width"
+
+#: src/controller/pokazTabeleWymiarow.php:199
+msgid "szerokość całkowita ościeżnicy z listwami opaskowymi"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:202
+msgid "szerokość całkowita ościeżnicy bez listew opaskowych"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:203
+msgid "szerokość otworu montażowego"
+msgstr "opening width"
+
+#: src/controller/pokazTabeleWymiarow.php:205
+msgid "wysokość całkowita skrzydła (łącznie z przylgą)"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:206
+msgid "wysokość skrzydła"
+msgstr "door leaf height"
+
+#: src/controller/pokazTabeleWymiarow.php:213
+msgid "wysokość całkowita ościeżnicy z listwami opaskowymi"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:216
+msgid "wysokość całkowita ościeżnicy bez listew opaskowych"
+msgstr " ....."
+
+#: src/controller/pokazTabeleWymiarow.php:217
+msgid "wysokość otworu montażowego"
+msgstr "opening height"
+
+#: src/controller/printPreviewPDF.php:67
+msgid "Strona"
+msgstr "Page"
+
+#: src/controller/printPreviewPDF.php:67
+msgid "z"
+msgstr "with"
+
+#: src/controller/printPreviewPDF.php:178
+msgid "Wystawa"
+msgstr "Exposition"
+
+#: src/controller/printPreviewPDF.php:179
+msgid ""
+"Potwierdzam, że ekspozycja zostanie zamontowana w okresie miesiąca po "
+"realizacji, co jest podstawą naliczenia rabatu ekspozycyjnego"
+msgstr ""
+"I herewith declare that the exposition will be installed within a month "
+"after delivery, which is the fundamental term for giving the exposition "
+"discount."
+
+#: src/controller/printPreviewPDF.php:181
+msgid "Data wyceny"
+msgstr "Date of quote"
+
+#: src/controller/printPreviewPDF.php:183
+msgid "Oferta ważna do: <span style='font-size:9px;font-weight: bold;'>"
+msgstr "Valid until: <span style='font-size:9px;font-weight: bold;'>"
+
+#: src/controller/printPreviewPDF.php:185
+msgid "Oferta ważna 10 dni lub do czasu opublikowania nowych cen."
+msgstr "Quotation lapses after ten days or after the new price list release."
+
+#: src/controller/printPreviewPDF.php:188
+msgid "Suma zamówienia"
+msgstr "Total"
+
+#: src/controller/printPreviewPDF.php:188
+msgid "netto"
+msgstr "Net"
+
+#: src/controller/printPreviewPDF.php:188
+msgid "brutto"
+msgstr "Gross"
+
+#: src/controller/printPreviewPDF.php:191
+msgid "Kurs wymiany"
+msgstr "Exchange rate"
+
+#: src/controller/printPreviewPDF.php:194
+msgid "Nr projektu"
+msgstr "Project No."
+
+#: src/controller/printPreviewPDF.php:196
+msgid "Klient"
+msgstr "Customer name"
+
+#: src/controller/printPreviewPDF.php:198
+msgid "Wycenę przygotował"
+msgstr "Project leader"
+
+#: src/controller/zapisz.php:268
+msgid "fi. 16"
+msgstr "diam 16mm"
+
+#: src/controller/zapisz.php:274
+msgid "fi. 14"
+msgstr "diam 14mm"
+
+#: src/wewnetrzne/wybarwienia-material.php:5
+#: src/wewnetrzne/wybarwienia-material.php:55
+msgid "RAL - kolory kryjące"
+msgstr "RAL COLORS"
+
+#: src/wewnetrzne/wybarwienia-material.php:6
+msgid "BN - bejce natryskowa"
+msgstr "BN - Spray Stain Finish"
+
+#: src/wewnetrzne/wybarwienia-material.php:6
+msgid "BW - bejce wcierane"
+msgstr "BW - Rubbed Stain Finish"
+
+#: src/wewnetrzne/wybarwienia-material.php:7
+msgid "OW - olejowoski"
+msgstr "OW - Wax Oil Finish"
+
+#: src/wewnetrzne/wybarwienia-material.php:7
+msgid "Przecierane"
+msgstr "Rubbed Finish"
+
+#: src/wewnetrzne/wybarwienia-material.php:8
+msgid "RAL gładkie"
+msgstr "RAL smooth"
+
+#: src/wewnetrzne/wybarwienia-material.php:9
+msgid "RAL dąb"
+msgstr "RAL oak"
+
+#: src/wewnetrzne/wybarwienia-material.php:10
+msgid "NATURAL dąb"
+msgstr "NATURAL oak"
+
+#: src/wewnetrzne/wybarwienia-material.php:11
+msgid "NATURAL dąb sękaty"
+msgstr "NATURAL knotty oak"
+
+#: src/wewnetrzne/wybarwienia-material.php:67
+msgid "Wybierz kolor z palety RAL"
+msgstr "Select your color from the RAL palette"
+
+#: src/wewnetrzne/wybarwienia-material.php:126
+msgid "Kolory RAL"
+msgstr "RAL colors"
+
+#: src/wewnetrzne/wybarwienia-material.php:127
+msgid "Kolory RAL X mat"
+msgstr "RAL X-mat colors"
+
+#: src/wewnetrzne/wybarwienia-material.php:132
+#: src/wewnetrzne/wybarwienia-material.php:134
+msgid "kolor"
+msgstr "colour"
+
+#: src/wewnetrzne/wybarwienia-material.php:132
+msgid "obowiązkowo"
+msgstr "mandatory"
+
+#: src/wewnetrzne/wybarwienia-material.php:134
+msgid "poniżej"
+msgstr "ANY"
+
+#: src/wewnetrzne/wybarwienia-material.php:134
+msgid "według wyboru"
+msgstr "pick below"
+
+#: src/wewnetrzne/wybarwienia-material.php:149
+msgid "Materiał / Kolor"
+msgstr "Wood / Color"
+
+#: wewnetrzne.php:16 wewnetrzne.php:3611
+msgid "Szyld"
+msgstr "Escutcheon"
+
+#: wewnetrzne.php:17 wewnetrzne.php:3616
+msgid "klucz"
+msgstr "keyhole"
+
+#: wewnetrzne.php:18 wewnetrzne.php:3621
+msgid "wkładka"
+msgstr "euro cylinder"
+
+#: wewnetrzne.php:19 wewnetrzne.php:3626
+msgid "wc"
+msgstr "wc"
+
+#: wewnetrzne.php:22
+msgid "Szlachecka"
+msgstr "Noble"
+
+#: wewnetrzne.php:23
+msgid "Luksusowa"
+msgstr "Luxury"
+
+#: wewnetrzne.php:24
+msgid "NOVA 3.0"
+msgstr "NOVA 3.0"
+
+#: wewnetrzne.php:25
+msgid "NOVA 3.1"
+msgstr "NOVA 3.1"
+
+#: wewnetrzne.php:26
+msgid "NOVA 3.2"
+msgstr "NOVA 3.2"
+
+#: wewnetrzne.php:28
+msgid "Geometria"
+msgstr "Geometry"
+
+#: wewnetrzne.php:29
+msgid "Klasyczna"
+msgstr "Classic"
+
+#: wewnetrzne.php:30
+msgid "Op-art"
+msgstr "Op-art"
+
+#: wewnetrzne.php:31
+msgid "La Linea"
+msgstr "La Linea"
+
+#: wewnetrzne.php:32
+msgid "oferta czasowo niedostępna"
+msgstr "temporarily unavailable"
+
+#: wewnetrzne.php:33
+msgid "soft (gładkie)"
+msgstr "smooth finish"
+
+#: wewnetrzne.php:34 wewnetrzne.php:2103 wewnetrzne.php:2108
+msgid "dąb"
+msgstr "oak"
+
+#: wewnetrzne.php:35 wewnetrzne.php:2113
+msgid "dąb sękaty"
+msgstr "knotty oak"
+
+#: wewnetrzne.php:40 wewnetrzne.php:45
+msgid "korona z listwą ozdobną"
+msgstr "crown moulding"
+
+#: wewnetrzne.php:43 wewnetrzne.php:46
+msgid "korona plus z listwą ozdobną"
+msgstr "Crown moulding"
+
+#: wewnetrzne.php:47
+msgid "System dostawny do ściany z kasetą 125 mm"
+msgstr "PD - 125mm (surface mounted)"
+
+#: wewnetrzne.php:48
+msgid "System naścienny"
+msgstr "Wall Mount Sliding System"
+
+#: wewnetrzne.php:49
+msgid "System z kasetą 125 mm"
+msgstr "PD - 125mm (fixed wall thickness)"
+
+#: wewnetrzne.php:50
+msgid "Lacobel RAL 2230"
+msgstr "Lacobel RAL 2230"
+
+#: wewnetrzne.php:51
+msgid "Lacobel RAL 3004"
+msgstr "Lacobel RAL 3004"
+
+#: wewnetrzne.php:52
+msgid "Lacobel RAL 4006"
+msgstr "Lacobel RAL 4006"
+
+#: wewnetrzne.php:53
+msgid "Lacobel RAL 5002"
+msgstr "Lacobel RAL 5002"
+
+#: wewnetrzne.php:54
+msgid "Lacobel RAL 7000"
+msgstr "Lacobel RAL 7000"
+
+#: wewnetrzne.php:55
+msgid "Lacobel RAL 8007"
+msgstr "Lacobel RAL 8007"
+
+#: wewnetrzne.php:56
+msgid "Lacobel RAL 1013"
+msgstr "Lacobel RAL 1013"
+
+#: wewnetrzne.php:57
+msgid "Lacobel RAL 1236"
+msgstr "Lacobel RAL 1236"
+
+#: wewnetrzne.php:58
+msgid "Lacobel RAL 7016"
+msgstr "Lacobel RAL 7016"
+
+#: wewnetrzne.php:59
+msgid "fazowane okienne"
+msgstr "beveled clear glass"
+
+#: wewnetrzne.php:60
+msgid "Lacobel RAL 1015"
+msgstr "Lacobel RAL 1015"
+
+#: wewnetrzne.php:61
+msgid "Lacobel RAL 1023"
+msgstr "Lacobel RAL 1023"
+
+#: wewnetrzne.php:62
+msgid "Lacobel RAL 1164"
+msgstr "Lacobel RAL 1164"
+
+#: wewnetrzne.php:63
+msgid "Lacobel RAL 1202"
+msgstr "Lacobel RAL 1202"
+
+#: wewnetrzne.php:64
+msgid "fazowane refleks brąz"
+msgstr "beveled reflective bronze glass"
+
+#: wewnetrzne.php:65
+msgid "Lacobel RAL 1586"
+msgstr "Lacobel RAL 1586"
+
+#: wewnetrzne.php:66
+msgid "Lacobel RAL 2001"
+msgstr "Lacobel RAL 2001"
+
+#: wewnetrzne.php:67
+msgid "bezpieczne mleczne"
+msgstr "VSG milk glass"
+
+#: wewnetrzne.php:68
+msgid "Lacobel RAL 9003"
+msgstr "Lacobel RAL 9003"
+
+#: wewnetrzne.php:69
+msgid "Lacobel RAL 9005"
+msgstr "Lacobel RAL 9005"
+
+#: wewnetrzne.php:70
+msgid "fazowane refleks grafit"
+msgstr "beveled reflective graphite glass"
+
+#: wewnetrzne.php:71
+msgid "fazowane decormat"
+msgstr "beveled matt glass"
+
+#: wewnetrzne.php:72
+msgid "bezpieczne decormat gładki"
+msgstr "VSG matt glass"
+
+#: wewnetrzne.php:73
+msgid "bezpieczna okienna"
+msgstr "VSG clear glass"
+
+#: wewnetrzne.php:74
+msgid "hartowana decormat"
+msgstr "tempered matt glass"
+
+#: wewnetrzne.php:75
+msgid "bezpieczne kryształek"
+msgstr "VSG matt crystal glass"
+
+#: wewnetrzne.php:76
+msgid "BN-103"
+msgstr "BN-103"
+
+#: wewnetrzne.php:77
+msgid "BN-261"
+msgstr "BN-261"
+
+#: wewnetrzne.php:78
+msgid "BN-305"
+msgstr "BN-305"
+
+#: wewnetrzne.php:79
+msgid "BN-336"
+msgstr "BN-336"
+
+#: wewnetrzne.php:80
+msgid "BW-01"
+msgstr "BW-01"
+
+#: wewnetrzne.php:81
+msgid "BW-05"
+msgstr "BW-05"
+
+#: wewnetrzne.php:82
+msgid "BW-06"
+msgstr "BW-06"
+
+#: wewnetrzne.php:83
+msgid "BW-10"
+msgstr "BW-10"
+
+#: wewnetrzne.php:84
+msgid "BW-12"
+msgstr "BW-12"
+
+#: wewnetrzne.php:85
+msgid "BW-16"
+msgstr "BW-16"
+
+#: wewnetrzne.php:86
+msgid "lakier bezbarwny"
+msgstr "clear lacquer"
+
+#: wewnetrzne.php:87
+msgid "RAL 9016"
+msgstr "RAL 9016"
+
+#: wewnetrzne.php:88
+msgid "RAL"
+msgstr "RAL"
+
+#: wewnetrzne.php:89
+msgid "OW-3032"
+msgstr "OW-3032"
+
+#: wewnetrzne.php:90
+msgid "OW-3119"
+msgstr "OW-3119"
+
+#: wewnetrzne.php:91
+msgid "OW-3161"
+msgstr "OW-3161"
+
+#: wewnetrzne.php:92
+msgid "OW-3168"
+msgstr "OW-3168"
+
+#: wewnetrzne.php:93
+msgid "OW-3188"
+msgstr "OW-3188"
+
+#: wewnetrzne.php:94
+msgid "OW-3514"
+msgstr "OW-3514"
+
+#: wewnetrzne.php:95
+msgid "OW-3543"
+msgstr "OW-3543"
+
+#: wewnetrzne.php:96
+msgid "wariant 3"
+msgstr "option 3"
+
+#: wewnetrzne.php:97
+msgid "OW-3073"
+msgstr "OW-3073"
+
+#: wewnetrzne.php:98
+msgid "wariant 1"
+msgstr "option 1"
+
+#: wewnetrzne.php:99
+msgid "wariant 2"
+msgstr "option 2"
+
+#: wewnetrzne.php:101
+msgid "Mosiężne kpl.=6 szt."
+msgstr "/ solid brass / flat finials /"
+
+#: wewnetrzne.php:102
+msgid "Nylonowe kpl.=6 szt."
+msgstr "/ pvc / flat finials /"
+
+#: wewnetrzne.php:103
+msgid "Mosiężne ozdobne kpl.=6 szt."
+msgstr "/ solid brass / ball finials /"
+
+#: wewnetrzne.php:225
+msgid "Regulowana STANDARD"
+msgstr "Adjustable frame STANDARD"
+
+#: wewnetrzne.php:225
+msgid "Regulowana PREMIUM"
+msgstr "Adjustable frame PREMIUM"
+
+#: wewnetrzne.php:225
+msgid "Stała"
+msgstr "rebated"
+
+#: wewnetrzne.php:227 wewnetrzne.php:436 wewnetrzne.php:3507
+msgid "Proste"
+msgstr "Butt joint"
+
+#: wewnetrzne.php:227 wewnetrzne.php:437 wewnetrzne.php:3508
+msgid "Skośne"
+msgstr "Mitre joint"
+
+#: wewnetrzne.php:228
+msgid "Ościeżnica w wersji tunel"
+msgstr "Neutral frame (tunel)"
+
+#: wewnetrzne.php:228
+msgid "z opaską z jednej strony"
+msgstr "architraves from 1 side"
+
+#: wewnetrzne.php:228
+msgid "z opaską z dwóch stron"
+msgstr "architraves from 2 sides"
+
+#: wewnetrzne.php:415
+msgid "Szkło"
+msgstr "Glass options"
+
+#: wewnetrzne.php:420
+msgid "Regulowane"
+msgstr "ADJUSTABLE"
+
+#: wewnetrzne.php:421
+msgid "Stałe"
+msgstr "REBATED"
+
+#: wewnetrzne.php:422
+msgid "Ukryte"
+msgstr "HIDDEN"
+
+#: wewnetrzne.php:425
+msgid "Wybierz swoją ościeżnicę"
+msgstr "Enter the doorframe details"
+
+#: wewnetrzne.php:441
+msgid "Szerokość opasek"
+msgstr "Architrave width"
+
+#: wewnetrzne.php:447
+msgid "Błąd"
+msgstr "Error"
+
+#: wewnetrzne.php:447
+msgid "Wybierz brakujące opcje ościeżnicy"
+msgstr "Enter missing data"
+
+#: wewnetrzne.php:451
+msgid "Ościeżnice"
+msgstr "Doorframe models"
+
+#: wewnetrzne.php:455
+msgid "rose gold"
+msgstr "rose gold"
+
+#: wewnetrzne.php:456
+msgid "Wybierz klamkę"
+msgstr "Select the handle"
+
+#: wewnetrzne.php:459
+msgid "Rezygnuję z klamki"
+msgstr "Cancel the handle"
+
+#: wewnetrzne.php:461
+msgid "Nawiercenia na klamkę w cenie drzwi"
+msgstr "Pre-drilling for the handle included in the door price."
+
+#: wewnetrzne.php:463
+msgid "Wybór klamki powoduje dobór szyldu w zależności do wybranego zamka"
+msgstr ""
+"The choice of the handle determines the choice of rosette, depanding on the "
+"selected lock type"
+
+#: wewnetrzne.php:470 wewnetrzne.php:494
+msgid "2. Wybierz kolor"
+msgstr "2. Select the color"
+
+#: wewnetrzne.php:482
+msgid "Klamki i rozety"
+msgstr "Handles and rosettes"
+
+#: wewnetrzne.php:486
+msgid "RAL 9003"
+msgstr "RAL 9003"
+
+#: wewnetrzne.php:486
+msgid "RAL 9005"
+msgstr "RAL 9005"
+
+#: wewnetrzne.php:488
+msgid "Wybierz osłonki"
+msgstr "Select the hinge covers"
+
+#: wewnetrzne.php:491
+msgid "Rezygnuję z osłonek"
+msgstr "Cancel hinge covers"
+
+#: wewnetrzne.php:506
+msgid "Osłonki na zawiasy"
+msgstr "Hinge covers"
+
+#: wewnetrzne.php:553
+msgid "Wybierz model drzwi"
+msgstr "Select the model of your door"
+
+#: wewnetrzne.php:559
+msgid "Wybierz zamek"
+msgstr "Lock types"
+
+#: wewnetrzne.php:594
+msgid "miejsce na wyliczoną cenę"
+msgstr " ....."
+
+#: wewnetrzne.php:605
+msgid "Drzwi przesuwne SYSTEM NAŚCIENNY (SN)"
+msgstr "SD - Sliding Door"
+
+#: wewnetrzne.php:610
+msgid "SN z ościeżnicą i belką odbojową"
+msgstr "SD - doorframe with end post"
+
+#: wewnetrzne.php:611
+msgid "SN z ościeżnicą bez belki odbojowej"
+msgstr "SD - doorframe without end post"
+
+#: wewnetrzne.php:614
+msgid "Drzwi przesuwne SYSTEM WEWNĄTRZŚCIENNY (SW)"
+msgstr "PD - Pocket Door"
+
+#: wewnetrzne.php:626
+msgid "Pokój 1"
+msgstr "Room No. 1"
+
+#: wewnetrzne.php:632
+msgid "bezprzylgowe niewidoczne"
+msgstr "non-rebated door / concealed hinges"
+
+#: wewnetrzne.php:634
+msgid "bezprzylgowe rewersyjne"
+msgstr "reverse rebated door / concealed hinges"
+
+#: wewnetrzne.php:635
+msgid "bezprzylgowe ukryta ościeżnica"
+msgstr "hidden frame / concealed hinges"
+
+#: wewnetrzne.php:695 wewnetrzne.php:700
+msgid "typowa wysokość kasety"
+msgstr "cassette std. height"
+
+#: wewnetrzne.php:733
+msgid "DRS 1530 50 dB"
+msgstr "DRS 1530 50 dB"
+
+#: wewnetrzne.php:733
+msgid "Chronoseal 52 dB - z opóźnieniem opadania"
+msgstr "Chronoseal 52 dB"
+
+#: wewnetrzne.php:1080
+msgid "Zapisz rekord / Następne drzwi"
+msgstr "Save data / Next door"
+
+#: wewnetrzne.php:1114
+msgid "Złóż zamówienie | Zapisz wycenę"
+msgstr "PLACE ORDER or SAVE QUOTE"
+
+#: wewnetrzne.php:1164
+msgid "Dane operatora"
+msgstr "User data"
+
+#: wewnetrzne.php:1166
+msgid "Zamówienia dla"
+msgstr "Order for"
+
+#: wewnetrzne.php:1170
+msgid "klient"
+msgstr "customer"
+
+#: wewnetrzne.php:1171
+msgid "wystawa"
+msgstr "exhibition"
+
+#: wewnetrzne.php:1176
+msgid "Własny nr zamówienia"
+msgstr "Your Order No."
+
+#: wewnetrzne.php:1182
+msgid "Imię operatora"
+msgstr "First name"
+
+#: wewnetrzne.php:1188
+msgid "Nazwisko operatora"
+msgstr "Last name"
+
+#: wewnetrzne.php:1194
+msgid "Email operatora"
+msgstr "User e-mail"
+
+#: wewnetrzne.php:1212
+msgid "Dodaj nowy adres do listy"
+msgstr "Add a new e-mail address to the list"
+
+#: wewnetrzne.php:1230
+msgid "Kraj dostawy"
+msgstr "Place of delivery"
+
+#: wewnetrzne.php:1249
+msgid "Dane odbiorcy"
+msgstr "Customer data"
+
+#: wewnetrzne.php:1251
+msgid "Imię odbiorcy"
+msgstr "First name"
+
+#: wewnetrzne.php:1257
+msgid "Nazwisko odbiorcy"
+msgstr "Last name"
+
+#: wewnetrzne.php:1262
+msgid "Imię i nazwisko odbiorcy pojawi się na etykiecie drzwi!"
+msgstr "Customer name will be printed on the door label"
+
+#: wewnetrzne.php:1265
+msgid "Wystawa dla"
+msgstr "Exhibition for"
+
+#: wewnetrzne.php:1300
+msgid "Numer wyceny"
+msgstr "Quote No."
+
+#: wewnetrzne.php:1317
+msgid "Wydruk wyceny"
+msgstr "Print quote"
+
+#: wewnetrzne.php:1322
+msgid "Czekać z realizacją"
+msgstr "SAVE and WAIT"
+
+#: wewnetrzne.php:1322
+msgid "na osobne potwierdzenie"
+msgstr "until approved"
+
+#: wewnetrzne.php:1322
+msgid "Zapisz wycenę"
+msgstr "Save quote"
+
+#: wewnetrzne.php:1325
+msgid "Usuń wycenę"
+msgstr "Delete quote"
+
+#: wewnetrzne.php:1326
+msgid "Kliknij, by złożyć zamówienie"
+msgstr "Place your order"
+
+#: wewnetrzne.php:1326 wewnetrzne.php:1569
+msgid "Zamawiam"
+msgstr "Place order"
+
+#: wewnetrzne.php:1342
+msgid "Podaj adres email. Zostanie on dodany do listy"
+msgstr "Enter your e-mail address. It will be added to the list."
+
+#: wewnetrzne.php:1364
+msgid "Czy chcesz złożyć zamówienie?"
+msgstr "Do you want to place the order ?"
+
+#: wewnetrzne.php:1366
+msgid "Czy chcesz usunąć tą pozycję zamówienia?"
+msgstr "Do you want to delete the line item ?"
+
+#: wewnetrzne.php:1368
+msgid "Czy chcesz edytować pozycję zamówienia?"
+msgstr "Do you want to edit the line item ?"
+
+#: wewnetrzne.php:1370
+msgid "Czy chcesz usunąć tą wycenę?"
+msgstr "Do you want to delete this quote ?"
+
+#: wewnetrzne.php:1372
+msgid "Błędy"
+msgstr "Errors"
+
+#: wewnetrzne.php:1478
+msgid "Podaj poprawny adres email"
+msgstr "Wrong e-mail address."
+
+#: wewnetrzne.php:1595 wewnetrzne.php:4454 wewnetrzne.php:4568
+#: wewnetrzne.php:4595
+msgid "Anuluj"
+msgstr "Cancel"
+
+#: wewnetrzne.php:2118
+msgid "wykończenie gładkie"
+msgstr "smooth finish"
+
+#: wewnetrzne.php:2256 wewnetrzne.php:3053
+msgid "Szkło standardowe"
+msgstr "Std. glass"
+
+#: wewnetrzne.php:2257 wewnetrzne.php:3039 wewnetrzne.php:3054
+msgid "Dopłata: "
+msgstr "Surcharge: "
+
+#: wewnetrzne.php:2528 wewnetrzne.php:4437 wewnetrzne.php:4580
+msgid "Usuń"
+msgstr "Delete"
+
+#: wewnetrzne.php:2530 wewnetrzne.php:4466
+msgid "Edytuj"
+msgstr "Edit"
+
+#: wewnetrzne.php:2702 wewnetrzne.php:2703 wewnetrzne.php:2705
+#: wewnetrzne.php:2706 wewnetrzne.php:2707 wewnetrzne.php:2714
+msgid "Pole wymagane"
+msgstr "Required field"
+
+#: wewnetrzne.php:2704 wewnetrzne.php:2708 wewnetrzne.php:2709
+#: wewnetrzne.php:2710 wewnetrzne.php:2711 wewnetrzne.php:2712
+#: wewnetrzne.php:2713
+msgid "Pole wymagane (liczba)"
+msgstr "Required field (numer)"
+
+#: wewnetrzne.php:3150
+msgid "cena promocyjna z montażem"
+msgstr "Promotion price incl. installation"
+
+#: wewnetrzne.php:3772
+msgid "na jedną stronę"
+msgstr "one-sided"
+
+#: wewnetrzne.php:3773
+msgid "na dwie strony"
+msgstr "two-sided"
+
+#: wewnetrzne.php:3794
+msgid "od strony ościeżnicy / tunelu"
+msgstr "....."
+
+#: wewnetrzne.php:3982
+msgid "Zmień zamek"
+msgstr "Change the lock type"
+
+#: wewnetrzne.php:4613
+msgid "Czy chcesz usunąć pozycję zamówienia"
+msgstr "Do you want to delete the line item ?"
+
+#: wewnetrzne.php:4618
+msgid "Czy chcesz edytować pozycję zamówienia"
+msgstr "Do you want to edit the line item ?"
+
+#~ msgid ""
+#~ "Skrzydło <strong>wyłącznie</strong> w kolorze dąb olejowany OW 3032. "
+#~ "Wybierasz kolor <strong>ościeżnicy</strong>"
+#~ msgstr ""
+#~ "<strong>NOTE!!!</strong> You are selecting the colour of <strong>the "
+#~ "doorframe</strong> while the <strong>door leaf</strong> always comes in "
+#~ "OW-3032 wax oil finish"
+
+#~ msgid "Zabudowa kasety"
+#~ msgstr "Door frame"
+
+#~ msgid "uchwyt LC-169PI"
+#~ msgstr "round sliding door pull"
+
+#~ msgid "bezprzylgowe widoczne"
+#~ msgstr "non-rebated door / butt hinges"
+
+#~ msgid "Oferta ważna 30 dni lub do czasu ukazania się nowego cennika."
+#~ msgstr "Validity of quote 30 days or until the release of a new price list."
+
+#~ msgid "Barwienie skrzydła wg palety RAL"
+#~ msgstr " RAL colour"
+
+#~ msgid "Pochwyt i zamek SN"
+#~ msgstr "Lock"
+
+#~ msgid "Konstrukcja Zawiasy"
+#~ msgstr "Construction & hinges"
+
+#~ msgid "Szczelina wentylacyjne"
+#~ msgstr "Ventilation slit"
+
+#~ msgid "Decormat / faza"
+#~ msgstr "Matt / Beveled Side"
+
+#~ msgid "od strony"
+#~ msgstr "from the"
+
+#~ msgid "Kolor zamka"
+#~ msgstr "Lock finish"
+
+#~ msgid "Panel górny od zawias"
+#~ msgstr "Upper panel (from the door side)"
+
+#~ msgid "Panel górny od wręgu"
+#~ msgstr "Upper panel (from the frame side)"
+
+#~ msgid "Wymiary drzwi"
+#~ msgstr " Door dimensions"
+
+#~ msgid "Rozmiar typowy"
+#~ msgstr "Std. size"
+
+#~ msgid "Wysokość otworu"
+#~ msgstr "opening height"
+
+#~ msgid "Szerokość otworu"
+#~ msgstr "opening width"
+
+#~ msgid "Przesuwne zamek"
+#~ msgstr "Mortise hook lock"
+
+#~ msgid "Przesuwne ornament"
+#~ msgstr " "
+
+#~ msgid "Akcesoria przesuwne"
+#~ msgstr "Sliding door accessories"
+
+#~ msgid "listwa maskująca"
+#~ msgstr "milled/flat/rounded architraves"
+
+#~ msgid "panel górny podwyższony"
+#~ msgstr "upper panel heightened"
+
+#~ msgid "Wybierz typ oraz kolor zamka"
+#~ msgstr "Select type and colour of the lock."
+
+#~ msgid "Skrzydło z ościeżnicą podstawową"
+#~ msgstr "Std. doorset"
+
+#~ msgid "Nietypowa szerokość"
+#~ msgstr "Non-standard width"
+
+#~ msgid "Nietypowa wysokość"
+#~ msgstr "Non-standard height"
+
+#, fuzzy
+#~| msgid "Boksze 10 RAL 9016 gładki"
+#~ msgid "Boksze 10 RAL 9003 gładki"
+#~ msgstr "Boksze 10 RAL 9016 smooth finish"
+
+#~ msgid "Ościeżnica dopłata"
+#~ msgstr "Non-standard frame"
+
+#~ msgid "Promocja topniejąca"
+#~ msgstr "Promotion"
+
+#~ msgid "Prowadnica"
+#~ msgstr "Box Track"
+
+#~ msgid "Maskownica"
+#~ msgstr "Track cover"
+
+#~ msgid "Belka odbojowa"
+#~ msgstr "Fender beam"
+
+#~ msgid "Panel górny"
+#~ msgstr "Upper panel"
+
+#~ msgid "Panel górny - strona zawiasowa"
+#~ msgstr "Upper panel - from the door side"
+
+#~ msgid "Chrom połysk"
+#~ msgstr "Polished chrome"
+
+#~ msgid "Chrom mat"
+#~ msgstr "Satin chrome"
+
+#~ msgid "Złoty połystk"
+#~ msgstr "Polished gold"
+
+#~ msgid "Złoty mat"
+#~ msgstr "Satin gold"
+
+#~ msgid "biały"
+#~ msgstr "white"
+
+#~ msgid "Zapisz / Następne drzwi"
+#~ msgstr "Save / Next door"
+
+#~ msgid "Wartość promocji -"
+#~ msgstr "Basic prices reduced by"
+
+#~ msgid "cena ościeżnicy"
+#~ msgstr "frame price"
+
+#~ msgid "Wybierz kierunek otwierania drzwi w zamawianej ościeżnicy"
+#~ msgstr "Choose the swing direction of the door."
+
+#~ msgid "od zawias"
+#~ msgstr "from the wing side"
+
+#~ msgid "od wręgu"
+#~ msgstr "from the frame side"
+
+#~ msgid "od strony zawiasów"
+#~ msgstr "from the wing side"
+
+#~ msgid "od strony wręgu"
+#~ msgstr "from the frame side"
+
+#~ msgid "listwa retro"
+#~ msgstr "retro architraves"
